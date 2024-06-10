@@ -1,0 +1,16 @@
+{
+	"name": "generate-nest-files",
+	"version": "1.0.0",
+	"description": "Script para generar módulos, controladores, servicios y esquemas en NestJS",
+	"main": "generateNestFiles.js",
+	"bin": {
+	  "generate-nest-files": "./generateNestFiles.js"
+	},
+	"dependencies": {
+	  "readline-sync": "^1.4.10"
+	},
+	"scripts": {},
+	"author": "",
+	"license": "ISC"
+  }
+  
